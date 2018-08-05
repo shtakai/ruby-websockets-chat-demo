@@ -1,6 +1,6 @@
 # Ruby WebSockets Chat Demo
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/ruby-websockets-chat-demo.svg)](https://www.guardrails.io)
 
 This is a simple application that serves tasty WebSockets to your users with [faye-websocket](https://github.com/faye/faye-websocket-ruby), [Puma](https://github.com/puma/puma), and [Sinatra](https://github.com/sinatra/sinatra).
 
